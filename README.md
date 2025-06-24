@@ -29,6 +29,7 @@ mihir@dev:~$ whoami
 
 mihir@dev:~$ ls certifications/
 [GCP-ACE-2024.cert] ✓
+[SalesforceAgentforceSpecialist-2025.cert] ✓
 ```
 
 <div align="center">
@@ -42,9 +43,4 @@ mihir@dev:~$ ls certifications/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mihirlathiya5-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mihirlathiya5/)
 [![GitHub](https://img.shields.io/badge/GitHub-MihirLathiya510-black?style=flat&logo=github)](https://github.com/MihirLathiya510)
 
-</div>
-
----
-<div align="center">
-⚡ Fun fact: I debug with console.log() and I'm not ashamed of it! 
 </div>
