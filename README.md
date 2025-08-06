@@ -1,6 +1,8 @@
 
 <h1 align="center">Hello 👋, I'm Mihir Lathiya</h1>
 <h3 align="center">A Passionate Full-Stack Developer from India 🇮🇳, blending logic with creativity.</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihirlathiya510" alt="harshallathiya" /></a> </p>
+
 
 <div align="center">
 
