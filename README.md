@@ -29,6 +29,7 @@ mihir@dev:~$ whoami
 
 mihir@dev:~$ ls certifications/
 [GCP-ACE-2024.cert] ✓
+[GCP-GEN-AI-LEADER-2025.cert] ✓
 [SalesforceAgentforceSpecialist-2025.cert] ✓
 ```
 
