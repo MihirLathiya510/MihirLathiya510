@@ -20,13 +20,9 @@
 
 * 🔭 I’m currently working on **production-ready full-stack apps using TypeScript, SvelteKit, and GCP**
 
-* 🌱 I’m currently learning **Advanced Cloud Engineering 🚀, GCP GEN AI 🌐, CMAT Prep 📚, and Type-Safe Backend Systems ⚙️**
-
-* 🤝 I’m open to freelance projects and collaboration opportunities. [Connect with me on LinkedIn](https://www.linkedin.com/in/mihirlathiya5/)
-
 * 👨‍💻 All of my projects are available at [https://github.com/MihirLathiya510](https://github.com/MihirLathiya510)
 
-* 🧠 Ask me about **Full Stack Engineering (SvelteKit, Node.js, React, Ruby on Rails), Cloud (GCP, AWS), Databases (PostgreSQL, MongoDB), and DevOps Basics**
+* 🧠 Ask me about **Full Stack Engineering (SvelteKit, Node.js, React), Cloud (GCP, AWS), Databases (PostgreSQL, MongoDB, MySql), and DevOps Basics**
 
 * 📫 Reach me at **[mihirlathiya510@gmail.com](mailto:mihirlathiya510@gmail.com)**
 
